@@ -1,0 +1,2 @@
+# homework
+softuni fundamentals
