@@ -1,5 +1,5 @@
 function solve(arr){
-    let delimiter = arr.pop([arr.length - 1]);
+    let delimiter = arr.pop();
     console.log(arr.join(delimiter));
 }
 solve(['One', 
